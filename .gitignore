@@ -1,5 +1,4 @@
 .specstory/
-
 # --- Python ---
 __pycache__/
 *.py[cod]
