@@ -1,0 +1,14 @@
+.gitignore
+  h_0cfb1473e5b407 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "195ae8858480bb1a5c8a40f66593547d97af89d6",
+  "prompts": {},
+  "humans": {
+    "h_0cfb1473e5b407": {
+      "author": "Thiago da Silva Teixeira <teixeira.zeus@gmail.com>"
+    }
+  }
+}
