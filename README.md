@@ -104,7 +104,7 @@ goals.py status
 ### Quick install (skill only)
 
 ```bash
-git clone https://github.com/zeus/fablize-for-hermes.git
+git clone https://github.com/teixeirazeus/fablize-for-hermes.git
 cd fablize-for-hermes
 bash setup/setup.sh --skill-only
 ```

@@ -98,7 +98,7 @@ goals.py status
 ### 快速安装（仅技能）
 
 ```bash
-git clone https://github.com/zeus/fablize-for-hermes.git
+git clone https://github.com/teixeirazeus/fablize-for-hermes.git
 cd fablize-for-hermes
 bash setup/setup.sh --skill-only
 ```
